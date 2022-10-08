@@ -4,6 +4,8 @@ import colorama
 from colorama import Back, Fore, Style
 
 os.system('sudo apt install python3-pip')
+os.system('pip install colorama ')
+os.system('sudo pip install colorama')
 os.system('clear')
 print(Fore.LIGHTGREEN_EX + '________________')
 print('____________n__i')
