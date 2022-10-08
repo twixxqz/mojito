@@ -42,6 +42,7 @@ os.system('sudo apt install libpython2-stdlib libpython2.7-minimal libpython2.7-
 print(Fore.BLACK + Back.LIGHTGREEN_EX + 'Thank you for using mojito as your bottle installer' + Style.RESET_ALL)
 print(Fore.BLACK + Back.GREEN + 'bottles should now appear in your menu!' + Style.RESET_ALL)
 print(Fore.BLACK + Back.YELLOW + 'To update the bottles, just start the program again' + Style.RESET_ALL)
-sleep(10)
+print('')
+sleep(20)
 
 #Да я использовал кучу команд print просто так хоть мог написать 1 раз и не париться:)
