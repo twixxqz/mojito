@@ -1,5 +1,10 @@
 # mojito
-This is a program that installs all the necessary bottle packages.
+
+##### This is a program that installs all the necessary bottle packages.
+
+![screen1](https://github.com/twixxqz/mojito/blob/main/img/screen1.png)
+![screen2](https://github.com/twixxqz/mojito/blob/main/img/screen2.png)
+
 ## What are bottles?
 #### Bottles
 is an open source program that can simplify and advanced control of Wine. Wine mimics a Windows C drive and contains all the necessary files to use Windows programs on Linux.
