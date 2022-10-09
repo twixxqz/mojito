@@ -48,6 +48,6 @@ os.system('sudo rm com.usebottles.bottles_2021.12.28-treviso_amd64.deb')
 print(Fore.BLACK + Back.LIGHTGREEN_EX + 'Thank you for using mojito as your bottle installer' + Style.RESET_ALL)
 print(Fore.BLACK + Back.GREEN + 'bottles should now appear in your menu!' + Style.RESET_ALL)
 print(Fore.GREEN + Back.BLACK + 'To update the bottles, just start the program again' + Style.RESET_ALL)
-sleep(20)
+sleep(35)
 
 #Да я использовал кучу команд print просто так хоть мог написать 1 раз и не париться:)
